@@ -228,6 +228,7 @@ lable.logo{
   }
   #nme{
     font-family:'Times New Roman';
+    margin-left: 20px;
   }
   #clg{
     font-family: "Courier New";
@@ -378,7 +379,7 @@ section.one{
 
   section.one{
     max-width: 100%;
-    height: 400px;
+    height: 300px;
     background-size: 100% 100%;
     background-image: url(w3.jpg);
     background-size:contain;
