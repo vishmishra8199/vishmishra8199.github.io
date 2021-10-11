@@ -373,6 +373,10 @@ section.one{
   background-repeat: no-repeat;
 
  }
+ .frm{
+  width:420px; 
+  height:345px;
+ }
 }
 
 @media only screen and (max-width:800px){
@@ -387,6 +391,10 @@ section.one{
     background-repeat: no-repeat;
   
   }
+  .frm{
+    width:270px; 
+    height:245px;
+   }
   }
 
 
